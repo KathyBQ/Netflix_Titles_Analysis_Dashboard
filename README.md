@@ -41,7 +41,7 @@ This project analyzes the **Netflix Titles dataset** to discover insights about 
 ## Dashboard
 ...
 
-# Project Insights
+## Project Insights
 - 
 
 ## Final Conclusion
