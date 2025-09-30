@@ -41,7 +41,7 @@ This project analyzes the **Netflix Titles dataset** to discover insights about 
 - Do the same steps to the spreadsheets of the country, cast, and director.
 - **Handling nulls**. Find and replace missing data by NULL for all worksheets.
 - **Clean** the netflix_titles worksheet.
-- All worksheets are ready for import.
+- All worksheets are ready for visualization and import.
 
 ## Dashboard
 ...
