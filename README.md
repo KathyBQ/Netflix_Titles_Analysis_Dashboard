@@ -5,6 +5,7 @@ This project analyzes the **Netflix Titles dataset** to discover insights about 
 
 ## Dataset
 - Source: [Netflix_Titles_Dataset (Kaggle)](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- Original version: [Original .csv file](./netflix_titles_RAW_dataset.csv)
 - Contains about **8800** entries of Netflix movies and TV shows.
 - Number of valuables: 11
 - Valuables:
