@@ -35,10 +35,13 @@ This project analyzes the **Netflix Titles dataset** to discover insights about 
 - What is the trend of the genre for movies and TV shows?
 
 ## Process
-- Verified data for anny missing values and anomalies, and sorted out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into a dashboard and apply slicer to make dynamic.
+- Take out and make new spreadsheets for description, director, cast, country, and listed_in (genre) columns.
+- Look at these new spreadsheets’ data, and find out the prep algorithm.
+- **Remove unwanted blanks and separate data**.
+- Do the same steps to the spreadsheets of the country, cast, and director.
+- **Handling nulls**. Find and replace missing data by NULL for all worksheets.
+- **Clean** the netflix_titles worksheet.
+- All worksheets are ready for import.
 
 ## Dashboard
 ...
